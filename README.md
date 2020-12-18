@@ -36,3 +36,17 @@ yarn build:weapp
 ## 留言
 
 拿回去随便改，如果不介意的话，给我个`star`，这样可以第一时间收到代码更新的通知。
+
+
+## 预览
+
+- 初始状态
+![](./static/github/0.jpeg)
+- 点击 ”随机选一个“
+![](./static/github/1.jpeg)
+- 点击 ”停止“
+![](./static/github/2.jpeg)
+- 点击 ”领外卖券“
+![](./static/github/3.jpeg)
+- 点击 ”分享到微信好友“
+![](./static/github/4.jpeg)
